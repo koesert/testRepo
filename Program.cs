@@ -2,8 +2,12 @@
 
 public class Program
 {
-    public static void Main()
+    public static void PrintHelloWorld()
     {
         Console.WriteLine("Hello, World!");
+    }
+    public static void Main()
+    {
+        PrintHelloWorld();
     }
 }
