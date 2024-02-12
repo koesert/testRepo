@@ -1,0 +1,14 @@
+/Users/janwillem/School/HBO/Semester 2/testRepo/bin/Debug/net7.0/testRepo
+/Users/janwillem/School/HBO/Semester 2/testRepo/bin/Debug/net7.0/testRepo.deps.json
+/Users/janwillem/School/HBO/Semester 2/testRepo/bin/Debug/net7.0/testRepo.runtimeconfig.json
+/Users/janwillem/School/HBO/Semester 2/testRepo/bin/Debug/net7.0/testRepo.dll
+/Users/janwillem/School/HBO/Semester 2/testRepo/bin/Debug/net7.0/testRepo.pdb
+/Users/janwillem/School/HBO/Semester 2/testRepo/obj/Debug/net7.0/testRepo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janwillem/School/HBO/Semester 2/testRepo/obj/Debug/net7.0/testRepo.AssemblyInfoInputs.cache
+/Users/janwillem/School/HBO/Semester 2/testRepo/obj/Debug/net7.0/testRepo.AssemblyInfo.cs
+/Users/janwillem/School/HBO/Semester 2/testRepo/obj/Debug/net7.0/testRepo.csproj.CoreCompileInputs.cache
+/Users/janwillem/School/HBO/Semester 2/testRepo/obj/Debug/net7.0/testRepo.dll
+/Users/janwillem/School/HBO/Semester 2/testRepo/obj/Debug/net7.0/refint/testRepo.dll
+/Users/janwillem/School/HBO/Semester 2/testRepo/obj/Debug/net7.0/testRepo.pdb
+/Users/janwillem/School/HBO/Semester 2/testRepo/obj/Debug/net7.0/testRepo.genruntimeconfig.cache
+/Users/janwillem/School/HBO/Semester 2/testRepo/obj/Debug/net7.0/ref/testRepo.dll
